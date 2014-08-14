@@ -1,0 +1,34 @@
+================
+Controls
+================
+Movement
+----------------
+A: Left
+D: Right
+W: Away
+S: Toward
+Q: Up (with cheat)
+E: Down (with cheat)
+----------------
+Rotation
+----------------
+Shift-A: Left
+Shift-D: Right
+Shift-W: Up
+Shift-S: Down
+Shift-Q: Counter-clockwise
+Shift-E: Clockwise
+----------------
+Viewpoint
+----------------
+Up Arrow: Up
+Down Arrow: Down
+Left Arrow: Left
+Right Arrow: Right
+----------------
+Other
+----------------
+Space: Soft drop
+Enter: Hard drop
+P: Pause
+================
